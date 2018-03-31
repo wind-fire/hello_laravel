@@ -39,6 +39,9 @@
 <div class="container">
     <div class="content">
         <div class="title">Hello Laravel! - by Fire@2018</div>
+
+        <div class="title">Hello Laravel! - by Fire</div>
+
     </div>
 </div>
 </body>
